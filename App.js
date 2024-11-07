@@ -69,7 +69,7 @@ const App = () => {
                     const correctAnswer2 = 'Sri Lanka';
                     const correctAnswer3 = 'Wales';
                     const correctAnswer4 = 'Denmark';
-                    let message = 'No Answer was entered!';
+                    let message = '';
                     let score = 0;
                     if (answer === correctAnswer) score += 1;
                     if (answer2 === correctAnswer2) score += 1;
