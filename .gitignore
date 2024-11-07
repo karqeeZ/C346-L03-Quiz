@@ -33,3 +33,29 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+/.idea/.gitignore
+/img/bee.jpg
+/c346-L03-submission.zip
+/.idea/c346_L3_exercises.iml
+/img/crocodile.jpg
+/img/cyprus.webp
+/img/deer.jpg
+/img/denmark.png
+/.idea/caches/deviceStreaming.xml
+/img/elephant.jpg
+/img/giraffe.jpg
+/img/hummingbird.jpg
+/img/kingfisher.jpg
+/img/leopard.jpg
+/.idea/modules.xml
+/img/owl.jpg
+/img/peacock.jpg
+/img/penguin.jpg
+/img/rabbit.jpg
+/img/squirrel.jpg
+/img/srilanka.webp
+/img/tiger.jpg
+/img/turtle.jpg
+/.idea/vcs.xml
+/img/wales.png
+/img/zebra.jpg
